@@ -1,6 +1,6 @@
 {
   "name": "wedis",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "simple js implementation of redis as node lib",
   "main": "index.js",
   "scripts": {
@@ -25,11 +25,11 @@
   },
   "devDependencies": {
     "after": "0.8.2",
-    "eslint": "3.19.0",
-    "eslint-plugin-markdown": "1.0.0-beta.6",
+    "eslint": "^5.16.0",
+    "eslint-plugin-markdown": "^1.0.0",
     "istanbul": "1.0.0-alpha.2",
-    "mocha": "2.5.3",
-    "supertest": "1.1.0"
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
   },
   "homepage": "https://github.com/devfans/wedis#readme"
 }
